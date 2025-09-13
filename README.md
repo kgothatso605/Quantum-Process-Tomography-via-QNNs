@@ -68,8 +68,6 @@ jupyter lab
 
 ## Methodology
 
-*(Replace with your own workflow description.)*  
-Example structure:
 
 - Defined single-qubit gates (Identity, Pauli-X, Pauli-Y, Pauli-Z, Hadamard, Phase-S).  
 - Simulated circuits using **NumPy** and **Qiskit** to observe gate effects.  
